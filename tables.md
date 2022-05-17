@@ -1,4 +1,4 @@
-| Number  | player| sixes  |
+| Number | player | sixes |
 |---|---|---|
 
  | 1 | pant | 20 |
