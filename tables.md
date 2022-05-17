@@ -1,11 +1,8 @@
-| Number  | Rider        | Time  |
+| Number  | player        | sixes  |
 |---|---|---|
-
- | 1      | Bullet Bob   | 56:07 |
+ | 1      | Bullet Bob   | 20 |
  |---|---|---|
- 
- | 2      | Clumsy Colin | DNF   |
+ | 2      |  | 50   |
  |---|---|---|
- 
- | 3      | Swift Susan  | 55:13 |
+ | 3      | dhoni  | 10 |
  |---|---|---|
