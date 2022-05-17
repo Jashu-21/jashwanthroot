@@ -17,6 +17,7 @@ lsg_
 ### tables
 
 | Number | Rider        | Time  |
+|---|---|---|
 
 | 1      | Bullet Bob   | 56:07 |
  
