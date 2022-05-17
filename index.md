@@ -23,6 +23,5 @@ lsg_
 |---|---|---|
  
 | 2      | Clumsy Colin | DNF   |
-|---|---|---|
 
 | 3      | Swift Susan  | 55:13 |
